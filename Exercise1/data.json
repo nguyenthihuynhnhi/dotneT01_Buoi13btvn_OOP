@@ -1,0 +1,30 @@
+[
+  {
+    "MaHocVien": "se1",
+    "TenHocVien": "nguyen van a",
+    "diemToan": 3.5,
+    "diemVan": 4.5,
+    "diemAnh": 5.5
+  },
+  {
+    "MaHocVien": "se2",
+    "TenHocVien": "nguyen van b",
+    "diemToan": 5,
+    "diemVan": 6,
+    "diemAnh": 7
+  },
+  {
+    "MaHocVien": "se4",
+    "TenHocVien": "nguyen thi be ba",
+    "diemToan": 8,
+    "diemVan": 9,
+    "diemAnh": 10
+  },
+  {
+    "MaHocVien": "se5",
+    "TenHocVien": "nguyen thi muoi",
+    "diemToan": 9.5,
+    "diemVan": 7.5,
+    "diemAnh": 10
+  }
+]

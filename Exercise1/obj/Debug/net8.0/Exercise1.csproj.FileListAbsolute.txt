@@ -1,0 +1,15 @@
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\bin\Debug\net8.0\Exercise1.exe
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\bin\Debug\net8.0\Exercise1.deps.json
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\bin\Debug\net8.0\Exercise1.runtimeconfig.json
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\bin\Debug\net8.0\Exercise1.dll
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\bin\Debug\net8.0\Exercise1.pdb
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.sourcelink.json
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.dll
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\refint\Exercise1.dll
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.pdb
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\Exercise1.genruntimeconfig.cache
+E:\.Net-core\Cybersoft-Asp.net\Exercise\ExcerciseDate13\Exercise1\obj\Debug\net8.0\ref\Exercise1.dll
